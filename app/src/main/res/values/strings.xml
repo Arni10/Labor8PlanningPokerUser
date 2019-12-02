@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PlanningPokerUser</string>
+    <!-- Log in -->
+    <string name="login_title">Log in</string>
+    <string name="login_name">Name</string>
+    <string name="login_id">GroupID</string>
+    <string name="login_button">Log in</string>
+    <!-- Question -->
+    <string name="vote_button">Vote</string>
+    <string name="question">Question</string>
+</resources>

@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "557908260492",
+    "firebase_url": "https://planningpoker-c4db0.firebaseio.com",
+    "project_id": "planningpoker-c4db0",
+    "storage_bucket": "planningpoker-c4db0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557908260492:android:ffff76f2ff355654b92da9",
+        "android_client_info": {
+          "package_name": "com.example.labor8planningpokeradmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557908260492-jf6it4vp02n8nu41n9j9eo8nqf128s09.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.labor8planningpokeradmin",
+            "certificate_hash": "04e9b2fa8d4f6f1ba26fca941531315477e3fe93"
+          }
+        },
+        {
+          "client_id": "557908260492-jdi3v7fpvqi9j846ur749622pbbona7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZKfO3tn3XMofJXSTXxZJC9oEW8yCXFGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557908260492-jdi3v7fpvqi9j846ur749622pbbona7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557908260492:android:5357f3f0888f0f73b92da9",
+        "android_client_info": {
+          "package_name": "com.example.labor8planningpokeruser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557908260492-q8l5ef7kh4fd2ggk4v4t5qf0re405pff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.labor8planningpokeruser",
+            "certificate_hash": "04e9b2fa8d4f6f1ba26fca941531315477e3fe93"
+          }
+        },
+        {
+          "client_id": "557908260492-jdi3v7fpvqi9j846ur749622pbbona7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZKfO3tn3XMofJXSTXxZJC9oEW8yCXFGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557908260492-jdi3v7fpvqi9j846ur749622pbbona7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
